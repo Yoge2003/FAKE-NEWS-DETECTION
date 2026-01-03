@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.ipynb_checkpoints
+*.log
+#ML/DL FILES
+
+*.safetensors
+*.bin
+*.pt
+models/
